@@ -1,1 +1,1 @@
-VBoxManage.exe createmedium --filename PhysicalDrive1.vmdk --variant rawdisk --format=vmdk --property rawdrive=\\.\PhysicalDrive1
+VBoxManage.exe createmedium --filename PhysicalDrive1.vmdk --variant rawdisk --format=VMDK --property RawDrive=\\.\PhysicalDrive1
